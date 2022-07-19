@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume.docx](Resume.docx)
 
-- ⚡ Fun fact **Top %4 on TryHackMe**
+- ⚡ Fun fact **Top %3 on TryHackMe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

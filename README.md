@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **techdiverbrett@gmail.com**
 
-- 📄 Know about my experiences [Brett.Hoge.pdf](https://github.com/TheCyberDiver/TheCyberDiver/files/9293202/Brett.Hoge.pdf)
-
 - ⚡ Fun fact **Top %3 on TryHackMe**
 
 <h3 align="left">Connect with me:</h3>

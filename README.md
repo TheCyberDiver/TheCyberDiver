@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brett</h1>
-<h3 align="center">A passionate Information Technology and Cyber developer</h3>
+<h3 align="center">A passionate Cyber Threat Hunter and Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberdiver&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberdiver" /> </p>
 
-- 🔭 I’m currently working on **Data Structures in Python**
+- 🔭 I’m currently working on **Cloud Infrastructure in Azure**
 
-- 🌱 I’m currently learning **Python and automation**
+- 🌱 I’m currently learning **Python/Powershell automation**
 
-- 👯 I’m looking to collaborate on **Everything!**
+- 👯 I’m looking to collaborate on **Anything!**
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **My upcoming projects!**
 
 - 📫 How to reach me **techdiverbrett@gmail.com**
 

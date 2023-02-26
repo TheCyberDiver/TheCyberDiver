@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brett</h1>
-<h3 align="center">A passionate Cyber Threat Hunter and Programmer</h3>
+<h3 align="center">A passionate Offensive Security Consultant and Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberdiver&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberdiver" /> </p>
 
-- 🔭 I’m currently working on **Cloud Infrastructure in Azure**
-
-- 🌱 I’m currently learning **Python/Powershell automation**
+- 🌱 I’m currently learning **Web Application Penetration Testing**
 
 - 👯 I’m looking to collaborate on **Anything!**
 

@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 💬 Ask me about **My upcoming projects!**
+- 💬 Ask me about **OWASP TOP 10!**
 
 - 📫 How to reach me **techdiverbrett@gmail.com**
 

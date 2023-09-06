@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **techdiverbrett@gmail.com**
 
-- ⚡ Fun fact **Top %3 on TryHackMe**
+- ⚡ Fun fact **Creator of WebWarrior TryHackMe**
+
+- 📄 CVE Auther
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

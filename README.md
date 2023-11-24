@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **techdiverbrett@gmail.com**
 
-- ⚡ Fun fact **Creator of WebWarrior TryHackMe**
+- ⚡ Fun fact **Creator of WebWarrior @ TryHackMe**
 
 - 📄 CVE Auther
 

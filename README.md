@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact Creator of **WebWarrior @ TryHackMe**
 
-- 📄 CVE Auther
+- 📄 CVE Author
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

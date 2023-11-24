@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberdiver&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberdiver" /> </p>
 
-- 🌱 I’m currently learning **Black Box Web Application Penetration Testing**
-
 - 👥 I’m looking to collaborate on **Anything!**
 
 - 💬 Ask me about **OWASP TOP 10!**
